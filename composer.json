@@ -1,0 +1,12 @@
+{
+    "name": "basic-app/asset-bootstrap53",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BasicApp\\Assets\\Bootstrap53\\": ""
+        }
+    },
+    "require": {
+		    "basic-app/core": "*"
+    }
+}
